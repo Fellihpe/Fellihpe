@@ -31,6 +31,7 @@
 [![Dio](https://hermes.digitalinnovation.one/assets/diome/logo-full.svg)](https://www.dio.me/users/hugofelipesr)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/hugo-felipe-727659236/)
+
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fellihpe)
 
 ### Me segue nas redes abaixo!
