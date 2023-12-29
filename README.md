@@ -2,8 +2,8 @@
 
  <div>
 
-   <a href="https://github.com/Fellihpe">Desenvolvedor, graduando em Análise e Desenvolvimento de Sistemas e em Ciência da Computação.
-   
+   <a href="https://github.com/Fellihpe">Desenvolvedor, graduando em Análise e Desenvolvimento de Sistemas e em Ciência da Computação precisando de emprego.
+
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fellihpe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
    [![GitHub Streak](https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
