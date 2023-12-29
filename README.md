@@ -5,6 +5,7 @@
 
   Desenvolvedor, graduando em Análise e Desenvolvimento de Sistemas e em Ciência da Computação.
 
+
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fellihpe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
    [![GitHub Streak](https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
@@ -31,6 +32,7 @@
 [![Dio](https://hermes.digitalinnovation.one/assets/diome/logo-full.svg)](https://www.dio.me/users/hugofelipesr)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/hugo-felipe-727659236/)
+
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fellihpe)
 
